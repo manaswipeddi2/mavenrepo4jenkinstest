@@ -86,6 +86,11 @@ public class App
        {
     	   System.out.println(i);
        }
+		
+	String[] weekdays = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+	for (string x: weekdays){
+		System.out.println(x);	
+	}
       
         
     }
