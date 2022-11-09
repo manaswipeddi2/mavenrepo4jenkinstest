@@ -82,6 +82,10 @@ public class App
        {
     	   System.out.println("X is Greater then y");
        }
+       for(int i=1; i<10; i++)
+       {
+    	   System.out.println(i);
+       }
       
         
     }
